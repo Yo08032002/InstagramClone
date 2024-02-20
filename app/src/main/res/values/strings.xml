@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="mayank">Mayank</string>
+    <string name="from">From</string>
+    <string name="from2">from</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login_button</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="already_have_account_login">Already have Account? Login</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="create_new_account">Create New Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add">ADD</string>
+    <string name="profile">PROFILE</string>
+    <string name="search">SEARCH</string>
+    <string name="bio">Bio</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="write_caption_here">Write Caption Here</string>
+    <string name="share_post">Share Post</string>
+    <string name="your_post_may_be_appear_on_post_and_can_be_seen_on_the_posts_tab_under_your_profile">Your post may be appear on post and can be seen on the posts tab under your profile</string>
+    <string name="cancel">Cancel</string>
+    <string name="post">Post</string>
+    <string name="message">Message</string>
+    <string name="like">Like</string>
+</resources>
